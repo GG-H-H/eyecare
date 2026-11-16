@@ -1,0 +1,17 @@
+{
+  "name": "护眼小憩 · 20-20-20",
+  "short_name": "护眼小憩",
+  "description": "每 20 分钟，提醒你放下手机，看向 6 米外 20 秒。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050a12",
+  "theme_color": "#050a12",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
